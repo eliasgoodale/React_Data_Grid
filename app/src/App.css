@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.appBarTop {
+  height: 50%;
+  margin-bottom: 10px;
+}
+
+.indexGridContainer {
+  padding: 20px;
+}
